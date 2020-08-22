@@ -1,0 +1,16 @@
+Jenkins is Popular automation tool for CI/CD.
+Jenkins is opensource and written in Java Code.
+Jenkins is collection Pligins
+Using Jenkins we can automate any task
+
+CI Benefits:
+Fast feedback to Developers to find and fix issues
+Improves Code quality and minimize defects
+Its automates Integration Flow.
+
+CD Benefits:
+
+Automates software release process.
+Releasesoftware updates faster
+Improve developer Productivity
+Enables Developers to find and fix bugs Quicker
